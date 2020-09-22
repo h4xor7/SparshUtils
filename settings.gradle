@@ -1,0 +1,3 @@
+include ':sparshlibrary'
+include ':app'
+rootProject.name = "SparshUtils"
